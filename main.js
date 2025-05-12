@@ -1,3 +1,3 @@
-const _name = 'Ricardo Fernandes';
+const _name = 'Ricardo José Pestana Fernandes';
 
 alert('Hola ' + _name);
